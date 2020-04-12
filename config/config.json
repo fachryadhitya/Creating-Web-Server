@@ -1,8 +1,8 @@
 {
   "development": {
-    "username": "vDBmcc7l3x",
-    "password": "YmhFTKncVn",
-    "database": "vDBmcc7l3x",
+    "username": "",
+    "password": "",
+    "database": "",
     "host": "remotemysql.com",
     "dialect": "mysql",
     "operatorsAliases": false
@@ -16,9 +16,9 @@
     "operatorsAliases": false
   },
   "production": {
-    "username": "vDBmcc7l3x",
-    "password": "YmhFTKncVn",
-    "database": "vDBmcc7l3x",
+    "username": "",
+    "password": "",
+    "database": "",
     "host": "remotemysql.com",
     "dialect": "mysql",
     "operatorsAliases": false
