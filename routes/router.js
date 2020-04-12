@@ -4,7 +4,7 @@ const user = require("./user.router.js");
 
 router.use("/users", user);
 router.get("/", function(request, response) {
-  response.send("Webserver asrul.dev");
+  response.send("Webserver fachry adhitya");
 });
 router.get("/cari-jodoh", jodoh.getJodoh);
 router.post("/cari-jodoh", jodoh.setJodoh);
